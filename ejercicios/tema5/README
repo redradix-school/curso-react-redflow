@@ -1,0 +1,9 @@
+To run tests:
+
+cd ./src
+mocha
+
+To create coverage report (at ./src/coverage/):
+
+cd ./src
+istanbul cover _mocha
